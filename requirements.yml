@@ -1,8 +1,10 @@
 name: dm24
 dependencies:
-    - python=3.7
+    - python=3.8
     - numpy
     - scikit-learn
     - matplotlib
     - tqdm
     - jupyterlab
+    - pandas
+    - seaborn
