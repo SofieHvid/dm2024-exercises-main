@@ -35,6 +35,9 @@ Additional material for the course can be found on Blackboard under the sections
 Every week, there will be a Jupyter Notebook with exercises. The notebooks can be found
 in the [exercises directory](./exercises). 
 
+The [utilities directory](./utilities) includes the data that we will be
+working with along with convenience methods for the data.
+
 ## Practical considerations 
 ### Tools
 _note_: This course is a Python course, so in case you are not familiar with
