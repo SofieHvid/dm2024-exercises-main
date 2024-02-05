@@ -6,5 +6,6 @@ dependencies:
     - matplotlib
     - tqdm
     - jupyterlab
+    - pyarrow
     - pandas
     - seaborn
